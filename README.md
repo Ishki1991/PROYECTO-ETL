@@ -68,7 +68,9 @@ Also I will use meteostat library which provides:  temperatuare av, tempreature 
 ![](images/Api_call.jpeg)
 
 
-I will request to [Openweather API](https://openweathermap.org/api) to get current information, everyday the weather change so it has to be updated.
+- I will request to [Openweather API](https://openweathermap.org/api).
+- This api provides current information.
+- Everyday the weather change so it has to be updated.
 
 
 ## Load data to Mongo 
