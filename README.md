@@ -13,6 +13,8 @@
 
 ## Data extraction cleaning and manipulation
 ---
+![](images/Extraccion_datos.jpeg)
+
 
 The data will be cleaned and manipulated to reveal information about the average temperature of these 3 cities in recent years.
 
@@ -63,6 +65,8 @@ Also I will use meteostat library which provides:  temperatuare av, tempreature 
 
 ## Enrich data through an API
 ----
+![](images/Api_call.jpeg)
+
 
 I will request to [Openweather API](https://openweathermap.org/api) to get current information, everyday the weather change so it has to be updated.
 
@@ -109,7 +113,7 @@ As a result we will get the following conclusions (notebook/Conclusions):
 
 
 
-## Acknowledgements and recommendations
+## Acknowledgements
 ----
 
-I would like to thank my teachers: Ana, Jean-Charles and Cesar, for giving me the knowledge, tools and the help to make this project possible.
+I would like to thank my teachers: Ana, Jean-Charles and Cesar, for giving me help to make this project possible.
